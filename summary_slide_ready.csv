@@ -1,0 +1,3 @@
+Best Synergy Pair,Mean Synergy,95% CI,Delta AUC (GBM): A∪C vs C,Delta AUC (GBM): All∪C vs All,AUC (GBM) All
+Panel_B + Panel_E,0.6576,"[0.5803, 0.7724]",,,
+,,,0.0172,0.0,0.7068
